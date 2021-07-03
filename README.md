@@ -1,9 +1,9 @@
-## 👋 Hi there, I’m Arief Rahman
+## [<img align="left" alt="arieeefrahman | waving-hand" width="22px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width:100%;"/>] Hi there, I’m Arief Rahman
 - 🐱‍👤 Call me Arief.
 - 💻 I am a computer science student.
 - 📚 I am currently learning JavaScript.
 
-### 📫 Contact me via:
+### 📫 Feel free to contact me via:
 
 [<img align="left" alt="arieeefrahman | gmail" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" style="max-width:100%;"/>][gmail]
 [<img align="left" alt="arieeefrahman | linkedin" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" style="max-width:100%;"/>][linkedin]
