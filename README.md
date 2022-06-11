@@ -1,4 +1,4 @@
-## Hi there, I’m Arief Rahman <img align="left" alt="arieeefrahman | waving-hand" width="22px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width:100%;"/>
+## Hi there, I’m Arief Rahman
 - 🐱‍👤 Call me Arief.
 - 💻 I am a computer science student.
 
