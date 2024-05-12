@@ -1,4 +1,4 @@
-## Hi there, I’m Arief Rahman!
+## Hi there, I’m Arief!
 I am an 8th-semester student driven to pursue a career as a Full-stack Developer. Currently, I am learning for the front-end side. Usually I use Go for back-end side.
 
 ### 📫 Feel free to contact me via:
