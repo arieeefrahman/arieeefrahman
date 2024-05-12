@@ -1,6 +1,5 @@
-## Hi there, I’m Arief Rahman
-- 🐱‍👤 Call me Arief.
-- 💻 I am a Backend Developer.
+## Hi there, I’m Arief Rahman!
+I am an 8th-semester student driven to pursue a career as a Full-stack Developer. Currently, I am learning for the front-end side. Usually I use Go for back-end side.
 
 ### 📫 Feel free to contact me via:
 
