@@ -1,6 +1,6 @@
 ## Hi there, I’m Arief Rahman
 - 🐱‍👤 Call me Arief.
-- 💻 I am a computer science student.
+- 💻 I am a Backend Developer.
 
 ### 📫 Feel free to contact me via:
 
