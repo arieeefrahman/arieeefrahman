@@ -1,5 +1,5 @@
 ## Hi there, I’m Arief!
-I am a final year Computer Science Student.I am highly dedicated to software development, with a strong focus on backend development. Currently, I am learning for the front-end side.
+I am a fresh graduate of Computer Science Student.I am highly dedicated to software development with a strong focus on backend development with Go and PHP.
 
 ### 📫 Feel free to contact me via:
 
